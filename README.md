@@ -1241,7 +1241,7 @@ To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 ![Power BI Report](/videos/powerbi2.mp4)
 ![Power BI Report](/videos/powerbi1.mp4)
 
-[![Watch the video](/images/pwoerbi.webp)](https://arslansaeed-thegreat.github.io/Portfolio/videos/powerbi1.mp4)
+[![Watch the video](https://arslansaeed-thegreat.github.io/Portfolio/videos/powerbi1.mp4)]
 
 ## MS Excel Reports
 
