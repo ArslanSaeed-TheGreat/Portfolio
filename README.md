@@ -7,7 +7,7 @@ data analysis, collaborate with a dynamic team, and continue growing professiona
 
 ### SQL Database Management and Table Creation ✨.
 
-```
+```sql
 "Creating Department Table"
 ---------------------------
 create table departments (
@@ -1082,7 +1082,7 @@ insert into employees values (1000, 'Jacquelin', 'Cassam', 'jcassamrr@cam.ac.uk'
 - SQL Functions
 - VIEWS, Joins, Unions
 
-```
+```sql
 ------Show only Those Department employees count is more than 38------
 
 SELECT department, COUNT(*) FROM employees AS e1
