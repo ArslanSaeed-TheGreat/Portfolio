@@ -1,0 +1,62 @@
+
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+.popup-content {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  max-width: 1000px; /* Reduced max-width for a sleeker look */
+  padding: 20px;
+  background-color: #222;
+  border-radius: 10px; /* Increased border-radius for a sleeker look */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5); /* Added box-shadow for depth effect */
+  transition: opacity 0.3s ease-in-out; /* Add a smooth fade-in effect */
+}
+
+.sql-code {
+  flex: 1; /* Fill the available space on the right */
+  padding: 10px; /* Add some padding to the <pre> element */
+  white-space: pre-wrap; /* Preserve line breaks and wrap long text */
+}
+
+/* Adjust video to be centered */
+/* #videoPlayer {
+  width: 95%;
+  height: 90%;
+} */
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 28px;
+  color: #fff; /* Changed close button color to white */
+  transition: transform 0.2s ease-in-out; /* Add a smooth transform effect on hover */
+}
+
+.close:hover {
+  transform: scale(1.2); /* Scale the close button slightly on hover */
+}

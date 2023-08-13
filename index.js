@@ -40,4 +40,11 @@ window.addEventListener("scroll", () => {
     isBackToTopRendered = false;
     alterStyles(isBackToTopRendered);
   }
+  // var navButtonContainer = document.getElementById('navButtonContainer');
+    
+  //   if (window.scrollY > 0) {
+  //       navButtonContainer.classList.add('show');
+  //   } else {
+  //       navButtonContainer.classList.remove('show');
+  //   }
 });
