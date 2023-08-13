@@ -7,7 +7,7 @@ data analysis, collaborate with a dynamic team, and continue growing professiona
 
 ### SQL Database Management and Table Creation ✨.
 
-'''
+```
 "Creating Department Table"
 ---------------------------
 create table departments (
@@ -1075,15 +1075,14 @@ insert into employees values (997, 'Rhianna', 'Trynor', 'rtrynorro@uiuc.edu', '2
 insert into employees values (998, 'Brandice', 'Gillicuddy', 'bgillicuddyrp@adobe.com', '2014-11-30', 'Phones & Tablets', 'F', 134058, 2);
 insert into employees values (999, 'Kingston', 'Piwall', 'kpiwallrq@nyu.edu', '2012-07-07', 'Music', 'M', 45679, 7);
 insert into employees values (1000, 'Jacquelin', 'Cassam', 'jcassamrr@cam.ac.uk', '2010-01-27', 'Music', 'F', 28726, 2);
-'''
-
+```
 ### SQL Managing Tables Using SQL Queries ✨.
 - Data Exploration
 - Data Cleaning
 - SQL Functions
 - VIEWS, Joins, Unions
 
-'''
+```
 ------Show only Those Department employees count is more than 38------
 
 SELECT department, COUNT(*) FROM employees AS e1
@@ -1233,8 +1232,7 @@ GROUP BY ROLLUP(continent,country,city);
 --------------------------------------------------
 SELECT continent, country, city, SUM(units_sold) FROM sales
 GROUP BY CUBE(continent,country,city);
-'''
-
+```
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
