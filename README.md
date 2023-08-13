@@ -17,8 +17,6 @@ primary key (department)
 );
 
 
-You can watch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&list=PLwJBGAxcH7GzdavgKlCACbESzr-40lw3L) on my youtube channel where I re-create this from scratch. 
-
 ---------------------Database Management----------------
 CREATE DATABASE traning
 
