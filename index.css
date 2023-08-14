@@ -621,7 +621,7 @@ body:not(.user-is-tabbing) a:focus {
 pre {
     /* overflow: scroll; */
     overflow-y: scroll;
-    height: 500px;
+    height: 380px;
     width: 78%;
   }
 
