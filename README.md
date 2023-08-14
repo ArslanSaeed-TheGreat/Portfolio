@@ -5,6 +5,37 @@ I'm Arslan Saeed, a data enthusiast with a background in Electronics. I have bee
 and thrive on learning from organization's professionals. My future goal is to leverage data analysis to drive informed decision-making and contribute positively to diverse domains. I am eager to join your firm, where I can apply my expertise in 
 data analysis, collaborate with a dynamic team, and continue growing professionally. Let's connect and explore data together!
 
+## CV and LinkedIn Profile
+
+### To View my CV in DocX click [here &rarr;](https://docs.google.com/document/d/1zeanztvGbbymwun8IF6QbZf-q87g5iF4/edit?usp=sharing&ouid=111970720644046790631&rtpof=true&sd=true)
+### To View my CV in PDF click [here &rarr;](https://drive.google.com/file/d/1g3RXrthymaQUL6cgKm8B_fa8Ygm5Uyop/view?usp=sharing)
+
+### To View my LinkedIn profile click [here &rarr;](https://www.linkedin.com/in/arslan-saeed-1st/)
+
+## Portfolio
+
+
+## Power BI Reports
+
+# 1
+### To View the live demo click [here &rarr;](https://youtu.be/VAXNgUZuUvc)
+![Power BI Report](/images/powerbi1.gif)
+
+# 2
+### To View the live demo click [here &rarr;](https://youtu.be/KW-D5qvh4rY)
+![Power BI Report](/images/powerbi2.gif)
+
+## MS Excel Reports
+
+# 1
+### To View the live demo click [here &rarr;](https://youtu.be/heV2VxzjqbQ)
+![MS Excel Report](/images/excel1.gif)
+
+# 2
+### To View the live demo click [here &rarr;](https://youtu.be/e82PDM5sCLw)
+![MS Excel Report](/images/excel2.gif)
+
+
 ### SQL Database Management and Table Creation ✨.
 
 ```sql
@@ -1231,22 +1262,6 @@ GROUP BY ROLLUP(continent,country,city);
 SELECT continent, country, city, SUM(units_sold) FROM sales
 GROUP BY CUBE(continent,country,city);
 ```
-
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
-
-![Portfolio Gif](/images/portfolio.gif)
-
-## Power BI Reports
-
-![Power BI Report](/videos/powerbi2.mp4)
-![Power BI Report](/videos/powerbi1.mp4)
-
-[![Watch the video](https://youtu.be/KW-D5qvh4rY)]
-
-## MS Excel Reports
-
-![MS Excel Report](/videos/excel1.mp4)
-![MS Excel Report](/videos/excel2.mp4)
 
 ### Contributions are warmly welcomed ❤️.
 # portfolio
