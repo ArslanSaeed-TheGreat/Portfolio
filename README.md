@@ -1241,11 +1241,12 @@ To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 ![Power BI Report](/videos/powerbi2.mp4)
 ![Power BI Report](/videos/powerbi1.mp4)
 
-[![Watch the video](https://arslansaeed-thegreat.github.io/Portfolio/videos/powerbi1.mp4)]
+[![Watch the video](https://youtu.be/KW-D5qvh4rY)]
 
 ## MS Excel Reports
 
 ![MS Excel Report](/videos/excel1.mp4)
 ![MS Excel Report](/videos/excel2.mp4)
 
-### Contributions are warmly welcomed ❤️.# portfolio
+### Contributions are warmly welcomed ❤️.
+# portfolio
