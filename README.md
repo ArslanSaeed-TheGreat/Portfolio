@@ -7,8 +7,7 @@ data analysis, collaborate with a dynamic team, and continue growing professiona
 
 ## CV and LinkedIn Profile
 
-### To View my CV in DocX click [here &rarr;](https://docs.google.com/document/d/1zeanztvGbbymwun8IF6QbZf-q87g5iF4/edit?usp=sharing&ouid=111970720644046790631&rtpof=true&sd=true)
-### To View my CV in PDF click [here &rarr;](https://drive.google.com/file/d/1g3RXrthymaQUL6cgKm8B_fa8Ygm5Uyop/view?usp=sharing)
+### To View my CV click [here &rarr;](https://drive.google.com/file/d/1Q9b9hgQqSdPfUwldYdOpOb7PhxmeQRKZ/view?usp=sharing)
 
 ### To View my LinkedIn profile click [here &rarr;](https://www.linkedin.com/in/arslan-saeed-1st/)
 
