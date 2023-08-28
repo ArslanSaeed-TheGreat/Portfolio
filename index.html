@@ -21,7 +21,7 @@
 
   <meta name="description" content="Hello! I'm Arslan Saeed, a passionate data analyst. Welcome to my GitHub Portfolio! I love diving into datasets, uncovering insights, and driving data-driven solutions. Let's explore together!">
   <!-- Add some coding keywords below, Ex: (React, CSS etc) -->
-  <meta name="keywords" content="Arslan Saeed, Hard Skills, Soft Skills, Coding, Programming, Python, Data Analysis, Data Visualization, Statistical Analysis, Modeling, Graphic Design, Multimedia Editing, Communication Skills, Problem-solving, Critical Thinking, Adaptability, Flexibility, Time Management, Organization, Teamwork, Collaboration" />
+  <meta name="keywords" content="Arslan Saeed, Hard Skills, Soft Skills, Coding, Programming, SQL, mySQL, Power BI, Excel, Tableau, Python, Data Analysis, Data Visualization, Statistical Analysis, Modeling, Graphic Design, Multimedia Editing, Communication Skills, Problem-solving, Critical Thinking, Adaptability, Flexibility, Time Management, Organization, Teamwork, Collaboration" />
   <link rel="stylesheet" href="./index.css"/>
   <link rel="stylesheet" href="./popup.css"/>
   <link rel="stylesheet" href="./multi.css"/>
@@ -48,13 +48,13 @@
   <div id="mySidenav" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <br><br>
+    <a href="#About" onclick="closeNav()">About Me</a>
+    <a href="#Contact" onclick="closeNav()">Get in Touch</a>
     <a href="#SQL" onclick="closeNav()">SQL table Creation</a>
     <a href="#SQL-Queries" onclick="closeNav()">SQL Queries</a>
     <a href="#Power-BI" onclick="closeNav()">Microsoft Power BI</a>
     <a href="#MS-Excel" onclick="closeNav()">Microsoft Excel</a>
     <a href="#Online-Profile" onclick="closeNav()">Profile and Certificates</a>
-    <a href="#About" onclick="closeNav()">About Me</a>
-    <a href="#Contact" onclick="closeNav()">Get in Touch</a>
   </div>
   
   <div id="navButtonContainer">
@@ -91,11 +91,63 @@
           uncovering insights, and driving data-driven solutions. Let's explore together!
         </p>
         <a href="#Contact" class="btn btn--pink">Get in touch</a>
+        <a href="#About" class="btn btn--pink">About</a>
       </div>
     </div>
   </header>
 
   <main role="main">
+
+
+    <!-- ***** About ***** -->
+    <!-- Completed -->
+    <section class="about" id="About">
+      <div class="row">
+        <h2>About Me</h2>
+        <div class="about__content">
+          <div class="about__text">
+            <!-- Replace the below paragraph with info about yourself -->
+            <p>
+              I'm Arslan Saeed, a data enthusiast with a background in Electronics. 
+              I have been managing an institute and teaching IT, Mathematics, 
+              and Science since 2017. Proficient in SQL, Excel, and Power BI, 
+              I am now expanding my skills in Python. With solid knowledge of data cleaning, 
+              modeling, visualization, and creating insightful dashboards, I am a quick learner 
+              and thrive on learning from organization's professionals. My future goal is to 
+              leverage data analysis to drive informed decision-making and contribute positively 
+              to diverse domains. I am eager to join your firm, where I can apply my expertise in 
+              data analysis, collaborate with a dynamic team, and continue growing professionally. 
+              Let's connect and explore data together!
+            </p>
+            <!-- Provide a link to your resume -->
+            <a href="https://drive.google.com/file/d/1ojLxXZQU-qSpm5-RRNmRljDu3IF_QUsh/view?usp=sharing" class="btn" target="_blank">My Resume</a>
+          </div>
+
+          <div class="about__photo-container">
+            <!-- Add a nice photo of yourself -->
+            <img class="about__photo" src="./images/arslan-saeed.JPG" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ***** Contact ***** -->
+    <!-- Completed -->
+    <section class="contact" id="Contact">
+      <div class="row">
+        <h2>Get in Touch</h2>
+        <div class="contact__info">
+          <!-- <p>
+            Are you looking for a fast-performing and user-friendly website to
+            represent your product or business? or looking for any kind of
+          </p> -->
+          <!-- Replace the email with yours -->
+          <a href="mailto:Arslan97680@gmail.com" class="btn">Arslan97680@gmail.com</a>
+          <a href="tel:+923133516106" class="btn">Mobile: +92-313-351-6106</a>
+          <a href="https://www.linkedin.com/in/arslan-saeed-1st/" target="_blank" class="btn">LinkedIn Profile</a>
+        </div>
+      </div>
+    </section>
 
     <!-- ***** Work ***** -->    
     <!-- Completed -->
@@ -1588,14 +1640,20 @@ GROUP BY CUBE(continent,country,city);
             </a>
           </div>
           <div class="columnver">
+            <a href="https://www.credly.com/badges/d7338c08-53ec-466a-92d6-c59c7437bd5e/public_url" target="_blank">
+            <img src="./images/cicso-data-analytics-essentials.webp" alt="Data Analytics Essentials" class="columnver">
+            <p>Data Analytics Essentials<br>Cisco</p>
+            </a>
+          </div>
+          <div class="columnver">
             <a href="https://www.credly.com/badges/7b9b047c-4d4e-4e2e-800d-46fdd0664d49/public_url" target="_blank">
-            <img src="./images/cisco-data-basic.webp" alt="Forest" class="columnver">
+            <img src="./images/cisco-data-basic.webp" alt="Introduction to Data Science" class="columnver">
             <p>Introduction to Data Science<br>Cisco</p>
             </a>  
           </div>
           <div class="columnver">
             <a href="https://www.credly.com/badges/9f011aab-856b-49bb-b051-af4932b27cf0/public_url" target="_blank">
-            <img src="./images/cisco-computer.webp" alt="Mountains" class="columnver">
+            <img src="./images/cisco-computer.webp" alt="Computer Hardware Basics" class="columnver">
             <p>Computer Hardware Basics<br>Cisco</p>
             </a>
           </div>
@@ -1626,42 +1684,11 @@ GROUP BY CUBE(continent,country,city);
       </div>
     </section> -->
 
-    <!-- ***** About ***** -->
-    <!-- Completed -->
-    <section class="about" id="About">
-      <div class="row">
-        <h2>About Me</h2>
-        <div class="about__content">
-          <div class="about__text">
-            <!-- Replace the below paragraph with info about yourself -->
-            <p>
-              I'm Arslan Saeed, a data enthusiast with a background in Electronics. 
-              I have been managing an institute and teaching IT, Mathematics, 
-              and Science since 2017. Proficient in SQL, Excel, and Power BI, 
-              I am now expanding my skills in Python. With solid knowledge of data cleaning, 
-              modeling, visualization, and creating insightful dashboards, I am a quick learner 
-              and thrive on learning from organization's professionals. My future goal is to 
-              leverage data analysis to drive informed decision-making and contribute positively 
-              to diverse domains. I am eager to join your firm, where I can apply my expertise in 
-              data analysis, collaborate with a dynamic team, and continue growing professionally. 
-              Let's connect and explore data together!
-            </p>
-            <!-- Provide a link to your resume -->
-            <a href="https://drive.google.com/file/d/1ojLxXZQU-qSpm5-RRNmRljDu3IF_QUsh/view?usp=sharing" class="btn" target="_blank">My Resume</a>
-          </div>
-
-          <div class="about__photo-container">
-            <!-- Add a nice photo of yourself -->
-            <img class="about__photo" src="./images/arslan-saeed.JPG" alt="" />
-          </div>
-        </div>
-      </div>
-    </section>
   </main>
 
   <!-- ***** Contact ***** -->
   <!-- Completed -->
-  <section class="contact" id="Contact">
+  <section class="contact" id="Contact1">
     <div class="row">
       <h2>Get in Touch</h2>
       <div class="contact__info">
